@@ -1,0 +1,14 @@
+com\example\vehiclerepair\VehiclerepairApplication.class
+com\example\vehiclerepair\model\Shop.class
+com\example\vehiclerepair\repository\ShopRepository.class
+com\example\vehiclerepair\model\Vehicle.class
+com\example\vehiclerepair\controller\UserController.class
+com\example\vehiclerepair\repository\VehicleRepository.class
+com\example\vehiclerepair\service\UserService.class
+com\example\vehiclerepair\model\User.class
+com\example\vehiclerepair\controller\ShopController.class
+SecurityConfig.class
+com\example\vehiclerepair\controller\VehicleController.class
+com\example\vehiclerepair\repository\UserRepository.class
+com\example\vehiclerepair\service\VehicleService.class
+com\example\vehiclerepair\service\ShopService.class
